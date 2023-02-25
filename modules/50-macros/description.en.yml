@@ -1,0 +1,4 @@
+---
+name: Macros
+description: |
+  In this module, we will investigate how macros in Elixir works and how to write them.
